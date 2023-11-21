@@ -2,3 +2,9 @@ application/png
 {
 "content" : "$input.body"
 }
+
+
+
+Binary media types
+
+application/png
