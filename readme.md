@@ -1,4 +1,4 @@
-This is upload funtion for api Gateway
+This is upload funtion for api Gateway with lambda
 important points to remember
 
 1. requet content-type should match with binary settingson api Gateway.
