@@ -1,0 +1,4 @@
+application/png
+{
+"content" : "$input.body"
+}
